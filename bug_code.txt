@@ -1,3 +1,1 @@
 Bug code file
-
-Buggy code
